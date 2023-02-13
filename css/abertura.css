@@ -6,11 +6,15 @@
   --font--title: 1.4em;
   --font--subtitle--mobile: 0.7em;
   --font--title--mobile: 0.9em;
-  --font--bold:bold;
+  --font--bold:bold; 
 }
 .itens {
   display: flex;
-
+  width: 100vw;
+  margin-left: 0 !important;
+}
+ul{
+  padding-left: 0 !important;
 }
 .fale_conosco,
 .atendimento {

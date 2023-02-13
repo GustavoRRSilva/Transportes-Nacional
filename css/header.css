@@ -1,0 +1,25 @@
+.header{
+    display: flex;
+}
+
+.lista_header{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    column-gap: 60px;
+    align-self: center;
+    margin: auto;
+    font-size: var(--font--subtitle);
+    font-weight: var(--font--bold);
+}
+.item_header a {
+    text-decoration: none;
+    color: #000000;
+}
+.navbar-collapse{
+    display: flex;
+    justify-content: center;
+}
+.bg-body-tertiary{
+    background-color: #ffffff !important;
+}

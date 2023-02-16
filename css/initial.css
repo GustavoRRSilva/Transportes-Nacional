@@ -7,3 +7,16 @@
 html, body{
     height: 100%;
 }
+:root {
+    --color--parte-one: #ae0d1c;
+    --color--parte-two: #d7182a;
+    --color--white: #ffffff;
+    --font--subtitle: 1.2em;
+    --font--title: 1.4em;
+    --font--subtitle--mobile: 0.7em;
+    --font--title--mobile: 0.9em;
+    --font--bold:bold; 
+}
+header{
+    margin: auto;
+}

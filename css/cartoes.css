@@ -62,7 +62,12 @@ p{
 @media screen and (min-width:1024px) {
   .cartao{
     height: 100%;
-    max-height: 400px;
     min-height: 300px;
   }
 }
+@media screen and (max-width:500px){
+  .cartao{
+    height: 150px;
+  }
+}
+
